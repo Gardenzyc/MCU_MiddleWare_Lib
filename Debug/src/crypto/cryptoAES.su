@@ -12,9 +12,6 @@ cryptoAES.c:368:13:InvSubBytes	32	static
 cryptoAES.c:380:13:InvShiftRows	24	static
 cryptoAES.c:410:13:Cipher	32	static
 cryptoAES.c:436:13:InvCipher	32	static
-cryptoAES.c:467:6:AES_ECB_encrypt	16	static
-cryptoAES.c:473:6:AES_ECB_decrypt	16	static
 cryptoAES.c:489:13:XorWithIv	32	static
 cryptoAES.c:498:6:AES_CBC_encrypt_buffer	32	static
 cryptoAES.c:513:6:AES_CBC_decrypt_buffer	56	static
-cryptoAES.c:535:6:AES_CTR_xcrypt_buffer	56	static
